@@ -1,0 +1,19 @@
+.shrink {
+    transform: scale(0.8)
+}
+
+.remove {
+    display: none
+}
+
+.hide {
+    visibility: hidden
+}
+
+body {
+    background-color: red;
+}
+
+.background {
+    background-color: blue;
+}
